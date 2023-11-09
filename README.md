@@ -43,7 +43,7 @@
 <br><br> 
 
 
-<div style="display: flex; align-items: center">
+<div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=relexsun&show_icons=true&locale=en" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=relexsun" alt="GitHub Streak">
 </div>
