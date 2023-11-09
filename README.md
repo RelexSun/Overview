@@ -14,10 +14,14 @@
 
 ![pac man](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
+<br><br> 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/relexsun nop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="relexsun nop" height="30" width="40" /></a>
 </p>
+
+<br><br> 
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
