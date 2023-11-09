@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Relexsun Nop</h1>
+![Coding GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h3 align="center">I'm a Junior fullstack developer. 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=relexsun&label=Profile%20views&color=0e75b6&style=flat" alt="relexsun" /> </p>
@@ -7,9 +8,11 @@
 
 - 🌱 I’m currently learning **Node js, Express js, Redux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RelexSun?tab=repositories](https://github.com/RelexSun?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repo](https://github.com/RelexSun?tab=repositories)
 
 - ⚡ Fun fact **SIUUUUUUUU**
+
+![pac man](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
