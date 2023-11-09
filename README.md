@@ -42,7 +42,9 @@
 </div>
 <br><br> 
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=relexsun&show_icons=true&locale=en" alt="relexsun" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=relexsun&" alt="relexsun" /></p>
+<div>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=relexsun&show_icons=true&locale=en" alt="relexsun" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=relexsun&" alt="relexsun" /></p>
+</div>
   
 
 
