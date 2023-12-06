@@ -4,27 +4,6 @@
 
 <br><br> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=relexsun&label=Profile%20views&color=0e75b6&style=flat" alt="relexsun" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=relexsun" alt="relexsun" /></a> </p>
-
-- 🌱 I’m currently learning **Node js, Express js, Redux**
-
-- 👨‍💻 All of my projects are available at [My Repo](https://github.com/RelexSun?tab=repositories)
-
-- ⚡ Fun fact **SIUUUUUUUU**
-
-![pac man](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
-
-<br><br> 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/relexsun nop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="relexsun nop" height="30" width="40" /></a>
-</p>
-
-<br><br> 
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
