@@ -1,8 +1,5 @@
 ![Coding GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Relexsun Nop</h1>
-<h3 align="center">I'm a fullstack developer student. 💻</h3>
-
-<br><br> 
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
@@ -20,7 +17,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 </div>
 <br><br> 
-
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=relexsun" alt="GitHub Streak">
